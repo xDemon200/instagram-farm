@@ -81,8 +81,8 @@ class InstagramBot:
 
 if __name__ == "__main__":
 
-    username = "sky_beltran17"
-    password = "Luciernaga29!"
+    username = "here your user"
+    password = "your password"
 
     ig = InstagramBot(username, password)
     ig.login()
